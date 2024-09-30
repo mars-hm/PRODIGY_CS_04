@@ -9,7 +9,7 @@ os.makedirs(os.path.dirname(path), exist_ok=True)
 
 log_limit = RotatingFileHandler(path, maxBytes=1_000_000, backupCount=3)
 
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s: %(message)s', handlers=[log_handler])
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s: %(message)s', handlers=[log_limit])
 
 def click(key):
     try:
