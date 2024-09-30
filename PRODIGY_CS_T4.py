@@ -7,7 +7,7 @@ path = r"D:\Prodigy Infotech\Task 4 Simple Keylogger\keylog.txt"
 
 os.makedirs(os.path.dirname(path), exist_ok=True)
 
-log_handler = RotatingFileHandler(path, maxBytes=1_000_000, backupCount=3)
+log_limit = RotatingFileHandler(path, maxBytes=1_000_000, backupCount=3)
 
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s: %(message)s', handlers=[log_handler])
 
