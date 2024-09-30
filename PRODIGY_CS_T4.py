@@ -3,7 +3,7 @@ import logging
 import os
 from logging.handlers import RotatingFileHandler
 
-path = r"D:\Prodigy Infotech\Task 4 Simple Keylogger\keylog.txt"
+path = r"your actual path\keylog.txt"
 
 os.makedirs(os.path.dirname(path), exist_ok=True)
 
