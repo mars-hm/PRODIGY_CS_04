@@ -1,0 +1,79 @@
+2024-09-30 14:50:49,920: Key h pressed
+2024-09-30 14:50:50,140: Key e pressed
+2024-09-30 14:50:52,387: Key l pressed
+2024-09-30 14:50:52,586: Key l pressed
+2024-09-30 14:50:52,816: Key o pressed
+2024-09-30 14:50:55,950: Special Key Key.space pressed
+2024-09-30 14:50:56,184: Key k pressed
+2024-09-30 14:50:56,369: Key e pressed
+2024-09-30 14:50:56,716: Key i pressed
+2024-09-30 14:50:56,899: Key i pressed
+2024-09-30 14:50:57,134: Key t pressed
+2024-09-30 14:50:57,365: Key y pressed
+2024-09-30 14:50:58,571: Special Key Key.down pressed
+2024-09-30 14:50:59,076: Special Key Key.enter pressed
+2024-09-30 14:51:33,527: Key h pressed
+2024-09-30 14:51:33,744: Key o pressed
+2024-09-30 14:51:33,948: Key w pressed
+2024-09-30 14:51:34,511: Special Key Key.space pressed
+2024-09-30 14:51:34,711: Key t pressed
+2024-09-30 14:51:34,871: Key o pressed
+2024-09-30 14:51:35,096: Special Key Key.space pressed
+2024-09-30 14:51:35,436: Key s pressed
+2024-09-30 14:51:35,778: Key t pressed
+2024-09-30 14:51:36,000: Key o pressed
+2024-09-30 14:51:36,196: Key p pressed
+2024-09-30 14:51:36,377: Special Key Key.space pressed
+2024-09-30 14:51:36,562: Key t pressed
+2024-09-30 14:51:36,707: Key h pressed
+2024-09-30 14:51:36,837: Key e pressed
+2024-09-30 14:51:36,974: Special Key Key.space pressed
+2024-09-30 14:51:37,750: Key e pressed
+2024-09-30 14:51:38,384: Key x pressed
+2024-09-30 14:51:38,741: Key e pressed
+2024-09-30 14:51:38,988: Key c pressed
+2024-09-30 14:51:39,200: Key u pressed
+2024-09-30 14:51:39,388: Key t pressed
+2024-09-30 14:51:39,518: Key i pressed
+2024-09-30 14:51:39,727: Key o pressed
+2024-09-30 14:51:39,953: Key n pressed
+2024-09-30 14:51:40,136: Special Key Key.space pressed
+2024-09-30 14:51:40,366: Key o pressed
+2024-09-30 14:51:40,557: Key f pressed
+2024-09-30 14:51:40,733: Special Key Key.space pressed
+2024-09-30 14:51:42,249: Key k pressed
+2024-09-30 14:51:43,223: Key e pressed
+2024-09-30 14:51:44,026: Key y pressed
+2024-09-30 14:51:45,812: Key l pressed
+2024-09-30 14:51:46,105: Key o pressed
+2024-09-30 14:51:46,287: Key o pressed
+2024-09-30 14:51:46,652: Key g pressed
+2024-09-30 14:51:46,814: Key i pressed
+2024-09-30 14:51:47,055: Key n pressed
+2024-09-30 14:51:47,287: Key g pressed
+2024-09-30 14:51:47,477: Special Key Key.space pressed
+2024-09-30 14:51:49,275: Key f pressed
+2024-09-30 14:51:49,459: Key i pressed
+2024-09-30 14:51:49,691: Key l pressed
+2024-09-30 14:51:49,859: Key e pressed
+2024-09-30 14:51:51,109: Special Key Key.enter pressed
+2024-09-30 14:51:56,701: Special Key Key.ctrl_l pressed
+2024-09-30 14:51:57,356: Key  pressed
+2024-09-30 14:52:02,728: Special Key Key.ctrl_l pressed
+2024-09-30 14:52:02,921: Key  pressed
+2024-09-30 15:04:17,366: Key c pressed
+2024-09-30 15:04:17,570: Key a pressed
+2024-09-30 15:04:17,784: Key s pressed
+2024-09-30 15:04:17,960: Key s pressed
+2024-09-30 15:04:18,149: Key a pressed
+2024-09-30 15:04:18,357: Key n pressed
+2024-09-30 15:04:20,410: Special Key Key.right pressed
+2024-09-30 15:04:21,052: Special Key Key.space pressed
+2024-09-30 15:04:21,426: Key c pressed
+2024-09-30 15:04:21,618: Key l pressed
+2024-09-30 15:04:21,755: Key a pressed
+2024-09-30 15:04:22,148: Key r pressed
+2024-09-30 15:04:22,320: Key e pressed
+2024-09-30 15:04:22,538: Special Key Key.enter pressed
+2024-09-30 15:04:43,375: Special Key Key.ctrl_l pressed
+2024-09-30 15:04:43,654: Key  pressed
